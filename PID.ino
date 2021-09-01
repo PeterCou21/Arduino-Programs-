@@ -1,5 +1,3 @@
-
-
 #include <PIDController.h>
 volatile long int encoder_pos = 0;
 PIDController pos_pid; 
